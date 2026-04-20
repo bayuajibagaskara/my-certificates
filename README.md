@@ -1,10 +1,10 @@
 ## 🎓 Academic Transcript & Certificates - Informatics Engineering UMM
-Repository ini berisi kumpulan sertifikat praktikum dan transkrip resmi dari Laboratorium Informatika Universitas Muhammadiyah Malang. [cite: 6, 7]
+Repository ini berisi kumpulan sertifikat praktikum dan transkrip resmi dari Laboratorium Informatika Universitas Muhammadiyah Malang. 
 
 **Student Information:**
-* **Name:** MUHAMMAD BAYU AJI BAGASKARA [cite: 8]
-* **NIM:** 202310370311327 [cite: 8]
-* **Transcript No:** E.5.d/9538/LAB-INF/UMM/2026 [cite: 10]
+* **Name:** MUHAMMAD BAYU AJI BAGASKARA 
+* **NIM:** 202310370311327
+* **Transcript No:** E.5.d/9538/LAB-INF/UMM/2026 
 
 ### 📊 Practicum Summary
 | # | Course Name | Grade |
@@ -25,4 +25,4 @@ Repository ini berisi kumpulan sertifikat praktikum dan transkrip resmi dari Lab
 **Average Grade: B** 
 
 ---
-*Last Updated: 20 April 2026* [cite: 13]
+*Last Updated: 20 April 2026* 
