@@ -1,11 +1,28 @@
-A collection of my academic practicum certificates and technical certifications in Informatics Engineering at University of Muhammadiyah Malang, showcasing my journey in Software Engineering and Data Science.
+## 🎓 Academic Transcript & Certificates - Informatics Engineering UMM
+[cite_start]Repository ini berisi kumpulan sertifikat praktikum dan transkrip resmi dari Laboratorium Informatika Universitas Muhammadiyah Malang. [cite: 6, 7]
 
-## 🎓 Academic Certificates - Informatics Engineering UMM
-Repository ini berisi kumpulan sertifikat praktikum selama masa studi saya di Universitas Muhammadiyah Malang.
+**Student Information:**
+* [cite_start]**Name:** MUHAMMAD BAYU AJI BAGASKARA [cite: 8]
+* [cite_start]**NIM:** 202310370311327 [cite: 8]
+* [cite_start]**Transcript No:** E.5.d/9538/LAB-INF/UMM/2026 [cite: 10]
 
-### Semester 5
-| Course | Certificate No. | Grade | Validation |
-| :--- | :--- | :---: | :--- |
-| **Piranti Cerdas** | E.5.d/9530/LAB-INF/UMM/2026 | **B+** | [Verify](https://infotech.umm.ac.id/validate-certificate) |
+### 📊 Practicum Summary
+| # | Course Name | Grade |
+| :-- | :--- | :---: |
+| 1 | Pemrograman Dasar | B+ |
+| 2 | Pemrograman Berorientasi Obyek | B |
+| 3 | Pemrograman Lanjut | **A** |
+| 4 | Komunikasi Data | C+ |
+| 5 | Struktur Data | B |
+| 6 | Sistem Operasi | C+ |
+| 7 | Basis Data | C+ |
+| 8 | Pemrograman Web | B |
+| 9 | Pemrograman Mobile | **A** |
+| 10 | Pemrograman Fungsional | C+ |
+| 11 | Jaringan Komputer | B+ |
+| 12 | Piranti Cerdas | B+ |
+
+[cite_start]**Average Grade: B** 
 
 ---
+[cite_start]*Last Updated: 20 April 2026* [cite: 13]
